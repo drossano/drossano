@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drossano
-- 👀 I’m interested in games, tech, cooking, wrestling
+- 👀 I’m interested in games, tech, cooking, hiking and kayaking.
 - 🌱 I’m currently learning web development via The Odin Project
 - 📫 How to reach me deanrossano@gmail.com
 
